@@ -214,3 +214,5 @@ training/*
 
 # But keep .ipynb files
 !training/*.ipynb
+
+runs/
